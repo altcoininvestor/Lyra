@@ -101,8 +101,9 @@
             if (action == 'subscribe') {
                 $('body').addClass("subscribe-success");
             }
+            {{!-- REDIRECT TO PORTAL --}}
             if (action == 'signup') {
-                window.location = '{{@site.url}}/signup/?action=checkout';
+                window.location = '{{@site.url}}/#/portal/signup/';
             }
             if (action == 'checkout') {
                 $('body').addClass("signup-success");
