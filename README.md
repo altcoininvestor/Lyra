@@ -1,6 +1,6 @@
-# Lyra
+# Theme for Altcoin Investor
 
-A paid-members publication for Ghost. Can be used with no code knowledge required.
+This is the website theme for [AltcoinInvestor.com](https://altcoininvestor.com)
 
 # Instructions
 
@@ -10,7 +10,7 @@ A paid-members publication for Ghost. Can be used with no code knowledge require
 4. Inside Ghost admin, go to the `Labs` settings area and scroll down until you see the `Custom Routes` section
 5. Upload the `routes.yaml` from this theme
 
-That's it! You now have a Ghost publication which supports free and paid memberships. If you need help, check out the <a href="https://ghost.org/docs/members/">Ghost members documentation</a> or chat with other Ghost users on <a href="https://forum.ghost.org">Ghost forum</a>.
+That's it! If you need help, check out the <a href="https://ghost.org/docs/members/">Ghost members documentation</a> or chat with other Ghost users on <a href="https://forum.ghost.org">Ghost forum</a>.
 
 ![screenshot](https://user-images.githubusercontent.com/120485/67228748-1fdd1400-f464-11e9-921f-ecbf5f412ed5.png)
 
@@ -45,3 +45,58 @@ yarn zip
 # Copyright & License
 
 Copyright (c) 2013-2021 Ghost Foundation - Released under the [MIT license](LICENSE).
+
+
+# Website Links & Articles
+[Best Crypto to Buy Now](https://altcoininvestor.com/best-crypto-to-buy-now/)
+
+[Best Low Cap Altcoins](https://altcoininvestor.com/low-cap-gems/)
+
+### Cryptocurrency Analysis
+[Brief History of Bitcoin Bull & Bear Markets](https://altcoininvestor.com/history-of-bitcoin-bull-bear-market/)
+
+[How to Evaluate a Cryptocurrency](https://altcoininvestor.com/how-to-evaluate-crypto/)
+
+[Bitcoin Halving Cycle](https://altcoininvestor.com/bitcoin-halving-cycle/)
+
+[Crypto Chart Patterns](https://altcoininvestor.com/crypto-chart-patterns-cheat-sheet-pdf/)
+
+[Bitcoin Rainbow Chart](https://altcoininvestor.com/bitcoin-rainbow-chart/)
+
+[What is an Altcoin?](https://altcoininvestor.com/altcoin/)
+
+[Today's Fear & Greed Index](https://altcoininvestor.com/fear-and-greed-index/)
+
+[The 4 Phase of a Crypto Market](https://altcoininvestor.com/crypto-market-cycle/)
+
+[The Shemitah Cycle](https://altcoininvestor.com/shemitah-cycle/)
+
+[FOMO (Fear of Missing Out)](https://altcoininvestor.com/fomo/)
+
+[FUD (Fear, Uncertainty & Doubt)](https://altcoininvestor.com/fear-uncertainty-doubt/)
+
+[ROI Calculator (Percentage Gain / Loss  Calculator)](https://altcoininvestor.com/crypto-profit-calculator/)
+
+[Market Capitalization Levels](https://altcoininvestor.com/market-capitalization/)
+
+### NFTs
+[Guide to Flipping SOL NFTs for Profit](https://altcoininvestor.com/guide-to-flipping-nfts-for-profit/)
+
+### ISO 20022 & CBDCs
+[Biggest Change to our Financial system in 50 years](https://altcoininvestor.com/biggest-change-to-our-financial-system-in-50-years/)
+
+[What is ISO 20022](https://altcoininvestor.com/what-is-iso-20022/)
+
+[Top ISO 20022 Compliant Cryptocurrencies](https://altcoininvestor.com/top-iso20022-crypto)
+
+[What is a Central Bank Digital Currency](https://altcoininvestor.com/cbdc/)
+
+[What is a medium of exchange](https://altcoininvestor.com/medium-of-exchange/)
+
+### Fan Tokens
+[What are Fan Tokens?](https://altcoininvestor.com/fan-tokens/)
+
+[Top Fan Tokens 2022](https://altcoininvestor.com/best-fan-tokens/)
+
+### Masternodes
+[Best Masternodes](https://altcoininvestor.com/best-masternodes/)
